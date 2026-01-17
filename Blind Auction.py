@@ -1,4 +1,4 @@
-from art import logo
+from auction_art import logo
 print(logo)
 
 
